@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-nauru-canal-and-intervention-historian
-  name: Nauru Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-nauru-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_nr_001
+    name: Nauru Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_002
+    name: Nauru Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_003
+    name: Nauru Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_004
+    name: Nauru Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_005
+    name: Nauru Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_006
+    name: Nauru Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_007
+    name: Nauru Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_008
+    name: Nauru Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_009
+    name: Nauru Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_010
+    name: Nauru Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_011
+    name: Nauru Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_012
+    name: Nauru Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_013
+    name: Nauru Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_014
+    name: Nauru Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_015
+    name: Nauru Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_016
+    name: Nauru Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_017
+    name: Nauru Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_018
+    name: Nauru Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_019
+    name: Nauru Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_020
+    name: Nauru Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_021
+    name: Nauru Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_022
+    name: Nauru Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_023
+    name: Nauru Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_024
+    name: Nauru Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_025
+    name: Nauru Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_026
+    name: Nauru Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_027
+    name: Nauru Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_028
+    name: Nauru Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_029
+    name: Nauru Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_030
+    name: Nauru Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_031
+    name: Nauru Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_032
+    name: Nauru Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_033
+    name: Nauru Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_034
+    name: Nauru Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_035
+    name: Nauru Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_036
+    name: Nauru Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_037
+    name: Nauru Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_038
+    name: Nauru Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_039
+    name: Nauru Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_040
+    name: Nauru Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_041
+    name: Nauru Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_042
+    name: Nauru Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_043
+    name: Nauru Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_044
+    name: Nauru Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_045
+    name: Nauru Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_046
+    name: Nauru Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_047
+    name: Nauru Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_048
+    name: Nauru Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_049
+    name: Nauru Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_050
+    name: Nauru Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_051
+    name: Nauru Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_052
+    name: Nauru Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_053
+    name: Nauru Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_054
+    name: Nauru Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_055
+    name: Nauru Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_056
+    name: Nauru Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_057
+    name: Nauru Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_058
+    name: Nauru Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_059
+    name: Nauru Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_060
+    name: Nauru Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_061
+    name: Nauru Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_062
+    name: Nauru Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_063
+    name: Nauru Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_064
+    name: Nauru Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_065
+    name: Nauru Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_066
+    name: Nauru Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_067
+    name: Nauru Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_068
+    name: Nauru Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_069
+    name: Nauru Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_070
+    name: Nauru Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_071
+    name: Nauru Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_072
+    name: Nauru Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_073
+    name: Nauru Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_074
+    name: Nauru Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_075
+    name: Nauru Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_076
+    name: Nauru Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_077
+    name: Nauru Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_078
+    name: Nauru Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_079
+    name: Nauru Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_080
+    name: Nauru Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_081
+    name: Nauru Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_082
+    name: Nauru Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_083
+    name: Nauru Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_084
+    name: Nauru Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_085
+    name: Nauru Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_086
+    name: Nauru Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_087
+    name: Nauru Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_088
+    name: Nauru Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_089
+    name: Nauru Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_090
+    name: Nauru Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_091
+    name: Nauru Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_092
+    name: Nauru Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_093
+    name: Nauru Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_094
+    name: Nauru Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_095
+    name: Nauru Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_096
+    name: Nauru Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_097
+    name: Nauru Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_098
+    name: Nauru Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_099
+    name: Nauru Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_100
+    name: Nauru Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_101
+    name: Nauru Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_102
+    name: Nauru Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_103
+    name: Nauru Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_104
+    name: Nauru Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_105
+    name: Nauru Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_106
+    name: Nauru Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_107
+    name: Nauru Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_108
+    name: Nauru Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_109
+    name: Nauru Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_110
+    name: Nauru Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_111
+    name: Nauru Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_112
+    name: Nauru Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_113
+    name: Nauru Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_114
+    name: Nauru Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_115
+    name: Nauru Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_116
+    name: Nauru Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_117
+    name: Nauru Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_118
+    name: Nauru Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_119
+    name: Nauru Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_120
+    name: Nauru Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_121
+    name: Nauru Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_122
+    name: Nauru Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_123
+    name: Nauru Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_124
+    name: Nauru Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_125
+    name: Nauru Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_126
+    name: Nauru Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_127
+    name: Nauru Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_128
+    name: Nauru Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_129
+    name: Nauru Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_130
+    name: Nauru Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_131
+    name: Nauru Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_132
+    name: Nauru Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_133
+    name: Nauru Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_134
+    name: Nauru Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_135
+    name: Nauru Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_136
+    name: Nauru Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_137
+    name: Nauru Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_138
+    name: Nauru Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_139
+    name: Nauru Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_140
+    name: Nauru Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_141
+    name: Nauru Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_142
+    name: Nauru Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_143
+    name: Nauru Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_144
+    name: Nauru Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_145
+    name: Nauru Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_146
+    name: Nauru Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_147
+    name: Nauru Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_148
+    name: Nauru Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_149
+    name: Nauru Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_150
+    name: Nauru Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_151
+    name: Nauru Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_152
+    name: Nauru Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_153
+    name: Nauru Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_154
+    name: Nauru Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_155
+    name: Nauru Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_156
+    name: Nauru Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_157
+    name: Nauru Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_158
+    name: Nauru Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_159
+    name: Nauru Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_160
+    name: Nauru Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_161
+    name: Nauru Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_162
+    name: Nauru Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_163
+    name: Nauru Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_164
+    name: Nauru Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_165
+    name: Nauru Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_166
+    name: Nauru Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_167
+    name: Nauru Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_168
+    name: Nauru Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_169
+    name: Nauru Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nr_170
+    name: Nauru Agent 170
+    status: ACTIVE_SCAFFOLD
