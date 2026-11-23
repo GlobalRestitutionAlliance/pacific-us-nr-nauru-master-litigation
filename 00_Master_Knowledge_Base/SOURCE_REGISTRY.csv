@@ -1,0 +1,11 @@
+source_id,title,url,source_type,access_method,verification_status,notes
+SRC-0001,UN Digital Library,https://digitallibrary.un.org/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0002,Library of Congress - Nauru,https://www.loc.gov/item/?q=nauru+phosphate+colonial,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0003,HathiTrust Digital Library,https://babel.hathitrust.org/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0004,Chronicling America LOC,https://chroniclingamerica.loc.gov/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0005,World Bank Nauru,https://data.worldbank.org/country/nauru,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0006,UK National Archives Discovery,https://discovery.nationalarchives.gov.uk/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0007,UNESCO Memory of the World,https://www.unesco.org/en/memory-world,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0008,Justia,https://www.justia.com/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0009,CourtListener,https://www.courtlistener.com/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.
+SRC-0010,ICJ Nauru Case,https://www.icj-cij.org/case/80,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pacific Wave 1 source registry; verify before legal reliance.

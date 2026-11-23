@@ -35,6 +35,10 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
+| 2026-11-23 | UK_National_Archives_Discovery.html | https://discovery.nationalarchives.gov.uk/ | OpenCode/harvest | 0592b62376dbd492e10a19ea9089361a962d29b23960c6da7a372113d153ddde | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=48240 final_url=https://discovery.nationalarchives.gov.uk/ |
+
+| 2026-11-23 | ICJ_Nauru_Case.html | https://www.icj-cij.org/case/80 | OpenCode/harvest | ffd0b6c5be3ac80e27ac34509599e886a466e079e8ca39e4ce2062383c494dc9 | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=75674 final_url=https://www.icj-cij.org/case/80 |
+
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.

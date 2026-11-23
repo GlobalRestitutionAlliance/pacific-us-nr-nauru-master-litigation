@@ -23,5 +23,10 @@
     "Access-Control-Expose-Headers": "Request-Context",
     "X-Powered-By": "ASP.NET",
     "Strict-Transport-Security": "max-age=31536000"
-  }
+  },
+  "http_status": 200,
+  "fetched_at": "2026-11-21T22:07:04.637839Z",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
 }

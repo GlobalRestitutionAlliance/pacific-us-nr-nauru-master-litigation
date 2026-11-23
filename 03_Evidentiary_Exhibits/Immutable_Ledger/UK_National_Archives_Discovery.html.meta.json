@@ -1,0 +1,16 @@
+{
+  "url": "https://discovery.nationalarchives.gov.uk/",
+  "final_url": "https://discovery.nationalarchives.gov.uk/",
+  "title": "UK National Archives Discovery",
+  "fetched_at": "2026-11-23T09:13:12.639041Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 48240,
+  "sha256": "0592b62376dbd492e10a19ea9089361a962d29b23960c6da7a372113d153ddde",
+  "provenance": "direct-http-capture",
+  "custodian": "OpenCode/harvest",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

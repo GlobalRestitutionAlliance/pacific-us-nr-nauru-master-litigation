@@ -1,0 +1,16 @@
+{
+  "url": "https://www.icj-cij.org/case/80",
+  "final_url": "https://www.icj-cij.org/case/80",
+  "title": "ICJ Nauru Case",
+  "fetched_at": "2026-11-23T09:13:13.692203Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 75674,
+  "sha256": "ffd0b6c5be3ac80e27ac34509599e886a466e079e8ca39e4ce2062383c494dc9",
+  "provenance": "direct-http-capture",
+  "custodian": "OpenCode/harvest",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
