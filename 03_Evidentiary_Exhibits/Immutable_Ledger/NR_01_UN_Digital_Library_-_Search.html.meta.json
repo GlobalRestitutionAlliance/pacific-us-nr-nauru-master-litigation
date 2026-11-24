@@ -22,11 +22,5 @@
     "Access-Control-Max-Age": "86400",
     "Access-Control-Allow-Methods": "OPTIONS,GET,POST",
     "Access-Control-Expose-Headers": "x-amzn-waf-action"
-  },
-  "http_status": 202,
-  "fetched_at": "2026-11-21T22:07:00.605021Z",
-  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
-  "annotation_note": "Empty/challenge capture detected; not substantive evidence. Pending recapture.",
-  "substantive": false,
-  "legal_review_status": "PENDING_LEGAL_REVIEW"
+  }
 }
